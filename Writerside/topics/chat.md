@@ -18,3 +18,9 @@ flatpak install -y flathub com.tencent.WeChat
 ```bash
 flatpak install -y  flathub com.tencent.wemeet
 ```
+
+## LocalSend
+
+```bash
+flatpak install flathub org.localsend.localsend_app
+```

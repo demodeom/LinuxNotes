@@ -20,6 +20,8 @@
     </toc-element>
     <toc-element topic="DevelopTools.md">
         <toc-element topic="Node-js.md"/>
+        <toc-element topic="Git.md"/>
+        <toc-element topic="flutter.md"/>
     </toc-element>
     <toc-element topic="codeEditor.md"/>
 </instance-profile>
