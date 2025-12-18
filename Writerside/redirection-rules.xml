@@ -10,4 +10,8 @@
         <description>Created after removal of "音乐" from Help Instance</description>
         <accepts>music.html</accepts>
     </rule>
+    <rule id="806529a">
+        <description>Created after removal of "FireFoxExtensions" from Help Instance</description>
+        <accepts>FireFoxExtensions.html</accepts>
+    </rule>
 </rules>

@@ -1,4 +1,4 @@
-# Markdown 编辑器
+# 文本编辑器
 
 ## Typora
 
