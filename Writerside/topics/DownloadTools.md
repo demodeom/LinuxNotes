@@ -6,6 +6,18 @@
 flatpak install flathub net.agalwood.Motrix
 ```
 
+[GitHub Motrix](https://github.com/agalwood/Motrix/releases)
+
+[rpm v1.8.19](https://github.com/agalwood/Motrix/releases/download/v1.8.19/Motrix-1.8.19.x86_64.rpm)
+
+[deb v1.8.19](https://github.com/agalwood/Motrix/releases/download/v1.8.19/Motrix_1.8.19_amd64.deb)
+
+```bash
+https://github.com/agalwood/Motrix/releases/download/v1.8.19/Motrix-1.8.19.x86_64.rpm
+
+https://github.com/agalwood/Motrix/releases/download/v1.8.19/Motrix_1.8.19_amd64.deb
+```
+
 ## qBittorrent
 
 ```Bash
